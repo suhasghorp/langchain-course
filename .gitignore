@@ -211,6 +211,11 @@ tempCodeRunnerFile.py
 # Ruff stuff:
 .ruff_cache/
 
+.idea/
+
+.python-version
+uv.lock
+
 # PyPI configuration file
 .pypirc
 
